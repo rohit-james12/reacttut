@@ -1,0 +1,4 @@
+// Code transformer  -  Transpiler
+{
+  "plugins": ["@babel/plugin-proposal-class-properties"]
+}
